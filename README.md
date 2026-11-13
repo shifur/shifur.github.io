@@ -18,7 +18,7 @@ This repository is named `shifur.github.io`, so it is the user-site repository f
 - `index.html`: biography, research highlights, selected publications and projects.
 - `research.html`: research directions.
 - `publications.html`: publications and technical reports.
-- `projects.html`: all eleven selected projects.
+- `projects.html`: all twelve selected projects.
 - `experience.html`: academic and professional experience.
 - `teaching.html`: teaching and mentoring.
 - `style.css`: shared responsive styles.
